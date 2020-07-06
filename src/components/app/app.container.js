@@ -23,7 +23,7 @@ export const AppContainer = () => {
         if (!!activeCommand) {
             speakUtterance(activeCommand.utterance);
         }
-    }, [activeCommand]);
+    }, [activeCommand, commandCount]);
 
     const handleSessionStart = (e) => {
         dispatch(startSession(commands));

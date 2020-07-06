@@ -30,7 +30,6 @@ export const AppContainer = () => {
     };
 
     const handleSessionEnd = (e) => {
-        console.log(endSession());
         dispatch(endSession());
     };
     

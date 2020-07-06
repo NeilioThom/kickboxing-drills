@@ -1,0 +1,78 @@
+[
+  {
+    "command": "Left Jab",
+    "delay": 2
+  },
+  {
+    "command": "Right Hook",
+    "delay": 2
+  },
+  {
+    "command": "Straight Right",
+    "delay": 2
+  },
+  {
+    "command": "Left Hook",
+    "delay": 2
+  },
+  {
+    "command": "Left Uppercut",
+    "delay": 2
+  },
+  {
+    "command": "Right Uppercut",
+    "delay": 2
+  },
+  {
+    "command": "Left Front Kick",
+    "delay": 2
+  },
+  {
+    "command": "Right Front Kick",
+    "delay": 2
+  },
+  {
+    "command": "Right Jump Punch",
+    "delay": 2
+  },
+  {
+    "command": "Left Jump Punch",
+    "delay": 2
+  },
+  {
+    "command": "Inside Boxing for 5",
+    "delay": 5
+  },
+  {
+    "command": "Right Uppercut",
+    "delay": 2
+  },
+  {
+    "command": "Right Spinning Back Fist",
+    "delay": 3
+  },
+  {
+    "command": "Left Spinning Back Fist",
+    "delay": 3
+  },
+  {
+    "command": "Right Roundhouse",
+    "delay": 3
+  },
+  {
+    "command": "Right Low Leg Block",
+    "delay": 2
+  },
+  {
+    "command": "Left Low Leg Block",
+    "delay": 2
+  },
+  {
+    "command": "Right Cross Block",
+    "delay": 2
+  },
+  {
+    "command": "Left Cross Block",
+    "delay": 2
+  }
+]
